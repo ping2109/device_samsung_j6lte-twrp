@@ -68,5 +68,3 @@ export TW_DEFAULT_LANGUAGE="en"
 
 # use system (ROM) fingerprint where available
 export OF_USE_SYSTEM_FINGERPRINT="1"
-
-add_lunch_combo omni_"$FDEVICE"-eng
